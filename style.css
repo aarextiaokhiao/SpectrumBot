@@ -1,0 +1,44 @@
+﻿.sbbody {
+	background-color:#191919;
+	color:#e5e5e5;
+	font-family:Roboto;
+	font-size:12px;
+	text-align:center;
+	margin:0
+}
+
+.sbbutton {
+	background-color:#999999;
+	width:96px;
+	height:36px;
+	padding:0;
+	border:none;
+	transition-duration:0.2s
+}
+.sbbutton:hover {
+	background-color: #BFBFBF
+}
+.sbbutton:active {
+	background-color: #727272
+}
+
+.botbutton {
+	position:fixed;
+	right:10px;
+	bottom:10px;
+	width:192px;
+	height:48px;
+	font-size:24px
+}
+
+.sbscreen {
+	position:fixed;
+	left:0px;
+	top:0px;
+	width:100%;
+	height:100%;
+	border:none
+}
+
+#title {width:100%; background-color:#BFBFBF; color:#191919; font-size: 36px}
+#subTitle {width:100%; background-color:#999999; color:#191919}
