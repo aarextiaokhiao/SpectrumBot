@@ -1,4 +1,4 @@
-var base_url='https://raw.githubusercontent.com/AarexTiaokhiao/SpectrumBot'
+var base_url='https://aarextiaokhiao.github.io/SpectrumBot/install.js'
 
 var fontsheet=document.createElement('link')
 fontsheet.rel='stylesheet'
